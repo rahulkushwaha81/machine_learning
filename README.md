@@ -5,7 +5,7 @@ Idea is to have a single repository which would contains all algorithms with dif
 
 **Linear regression**
 
-- Simple Linear regression (work in progress)
-- Ridge regression  (work in progress)
-- Lasso regression  (work in progress)
+- Simple Linear regression (covered in linear_reg_different_algorithms_housepricing.ipynb)
+- Ridge regression  (covered in linear_reg_different_algorithms_housepricing.ipynb)
+- Lasso regression  (covered in linear_reg_different_algorithms_housepricing.ipynb)
 - Effect of polynomial features on dataset (covered in linear_regression_with_polynomial_features.ipynb) 
